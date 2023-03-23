@@ -7,7 +7,7 @@
     'themeVariables': {
       'primaryColor': '#93D0FF',
       'primaryTextColor': '#000',
-      'background': '#f4f4f4'
+      'background': '#666'
     }
   }
 }%%
